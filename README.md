@@ -1,4 +1,4 @@
-# Federated Submodel Training Benchmarks
+# StitchFL: Heterogeneous Submodel Training in Federated Learningfor Membership Inference Attacks Mitigation
 
 This repository contains the code used to evaluate heterogeneous federated submodel training across different neural network architectures and datasets.
 
